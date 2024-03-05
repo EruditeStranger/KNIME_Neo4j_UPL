@@ -1,2 +1,7 @@
-# KNIME_Neo4j_UPL
-A heavily modified instructure of the workflow by Redfield to store UPL's Signals data into Neo4j
+# One of the things I did at UPL was create a pipeline for dynamically creating Neo4j graphs from CSV files.
+### Let's talk about it!
+
+## Extraction pipeline:
+Signals Electronic Lab Notebook -> Unstructured data -> structured data in CSV files 
+Once the data was structured, Reed and I spent nearly two months creating this bad boy
+/Neo4j/KNIME_vhigh.png
