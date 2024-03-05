@@ -6,4 +6,4 @@ Signals Electronic Lab Notebook -> Unstructured data -> structured data in CSV f
 Once the data was structured, Reed and I spent nearly two months creating this bad boy
 <br>
 
-Neo4j/KNIME_vhigh.png
+KNIME_Neo4j_UPL/Neo4j/KNIME_vhigh.png
