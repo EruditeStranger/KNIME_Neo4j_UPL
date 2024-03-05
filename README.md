@@ -1,5 +1,5 @@
 # Pipeline for dynamically creating Neo4j graphs from CSV files.
-### A really cool project I did with UPL 4 years ago. Documentation in progress!
+A really cool project I did with UPL 4 years ago. Documentation in progress, more details to come soon!
 
 ## Extraction pipeline:
 Signals Electronic Lab Notebook -> Unstructured data -> structured data in CSV files 
