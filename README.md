@@ -4,4 +4,6 @@
 ## Extraction pipeline:
 Signals Electronic Lab Notebook -> Unstructured data -> structured data in CSV files 
 Once the data was structured, Reed and I spent nearly two months creating this bad boy
-/Neo4j/KNIME_vhigh.png
+<br>
+
+Neo4j/KNIME_vhigh.png
